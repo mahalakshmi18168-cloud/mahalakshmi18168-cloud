@@ -1,4 +1,4 @@
-# 💫 About Me:
+Hi 👋I'm Mahalakshmi R
 I am a Computer Science Student
 
 
