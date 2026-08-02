@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahalakshmi R</h1>
-<h3 align="center">Computer Science Engineering Student | Java Developer | Backend Enthusiast</h3>
+<h3 align="center">Computer Science Engineering Student | Java Developer </h3>
 
 ---
 
@@ -10,7 +10,7 @@
 - 🌱 Currently learning **Spring Boot, Data Structures & Algorithms, and MySQL**
 - 💻 Interested in Backend Development
 - 🚀 Solving coding problems to prepare for placements
-- 📫 Reach me: **your-email@gmail.com**
+- 📫 Reach me: **mahalakshmi18168@gmail.com**
 
 ---
 
