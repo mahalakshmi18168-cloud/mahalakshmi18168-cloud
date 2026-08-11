@@ -61,6 +61,15 @@
 
 ## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahalakshmi18168-cloud&theme=github_dark" width="400" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahalakshmi18168-cloud&theme=github_dark" width="400" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahalakshmi18168-cloud&theme=github_dark" width="820" />
+</p>
+
 
 ## 📚 Currently Learning
 
