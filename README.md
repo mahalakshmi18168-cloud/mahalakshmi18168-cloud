@@ -62,16 +62,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahalakshmi18168-cloud&show_icons=true&theme=merko&hide_border=false" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahalakshmi18168-cloud&theme=github_dark" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahalakshmi18168-cloud&theme=github_dark" height="180" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mahalakshmi18168-cloud&layout=compact&theme=merko&hide_border=false" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahalakshmi18168-cloud&theme=github_dark" />
 </p>
----
-[![](https://visitcount.itsvg.in/api?id=mahalakshmi18168-cloud&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 ## 📚 Currently Learning
 
